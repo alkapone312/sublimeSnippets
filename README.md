@@ -1,5 +1,5 @@
-## These are my sublime snippets
+# These are my sublime snippets
 
-##Install
+## Install
 
 	Install by cloning this repo to .config/sublime-text/Packages/User on Linux
