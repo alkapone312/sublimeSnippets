@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+{% extends('${1:base}.html.twig') %}
+
+{% block ${2:body} %}
+
+$3
+
+{% endblock %}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>twig</tabTrigger>
+	<description>Start template with extend</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

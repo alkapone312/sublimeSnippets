@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed lacus iaculis, tincidunt tortor ac, tincidunt sem. Suspendisse nec consectetur libero. Integer vitae dui libero. Nullam nulla risus, iaculis id metus et, scelerisque dignissim dui. Phasellus in cursus turpis, sed pretium felis. Mauris at molestie velit. Praesent vel lacus at erat tincidunt sagittis. Vestibulum vitae augue vel risus porta convallis. Quisque aliquam mollis accumsan. Aliquam aliquet luctus dignissim. Cras rhoncus ex elit, nec fringilla metus iaculis eget. Nullam vel nisl bibendum arcu mattis varius. Suspendisse nec tellus ut arcu varius lacinia. Praesent vehicula eget dolor sit amet ullamcorper.
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis erat ligula, interdum ac mi id, pretium varius mauris. Donec imperdiet arcu et mauris luctus, non finibus sapien vulputate. Pellentesque ornare cursus erat lacinia efficitur. Aenean ullamcorper auctor neque, iaculis porta ipsum dictum nec. In hac habitasse platea dictumst. Aenean gravida pharetra purus, sed aliquam turpis. Donec aliquam nibh lacus, at lobortis magna venenatis dapibus. Sed non interdum eros. Vestibulum ut iaculis mauris.
+
+Cras a sodales ipsum. Sed metus nulla, hendrerit ac molestie et, hendrerit eu enim. Vivamus commodo sit amet dui sit amet mattis. Praesent suscipit, felis a fermentum sodales, nisi sapien dapibus nibh, quis viverra diam urna eget urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam eu congue ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam facilisis diam non diam maximus molestie. Donec at efficitur ex, eget consequat nisi.
+
+Aenean eget faucibus massa. Sed vestibulum iaculis ipsum. Nulla facilisi. In augue lacus, euismod in sem sit amet, suscipit mattis dolor. Duis ac mi in tortor convallis euismod ac at elit. Duis feugiat tempus ligula, quis luctus elit sagittis at. Integer mollis turpis ac felis suscipit pharetra.
+
+Suspendisse auctor placerat odio quis blandit. Integer porttitor et lectus vitae venenatis. Aenean consequat metus id tellus egestas, quis accumsan elit luctus. Nam tincidunt tristique urna, eu consequat sapien volutpat vitae. Donec egestas odio euismod ultrices tristique. Suspendisse id metus lacus. Sed pellentesque id metus sit amet tincidunt. Fusce ac commodo augue. Morbi sodales pulvinar urna, quis pretium nulla elementum quis. Phasellus mauris dui, finibus ac bibendum sit amet, vulputate ac nibh. Etiam ut rutrum mi, et mollis elit. Etiam eget vehicula mi. 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lri5</tabTrigger>
+	<description>Lorem Ipsum 5 paragraphs</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

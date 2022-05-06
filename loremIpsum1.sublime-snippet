@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed lacus iaculis, tincidunt tortor ac, tincidunt sem. Suspendisse nec consectetur libero. Integer vitae dui libero. Nullam nulla risus, iaculis id metus et, scelerisque dignissim dui. Phasellus in cursus turpis, sed pretium felis. Mauris at molestie velit. Praesent vel lacus at erat tincidunt sagittis. Vestibulum vitae augue vel risus porta convallis. Quisque aliquam mollis accumsan. Aliquam aliquet luctus dignissim. Cras rhoncus ex elit, nec fringilla metus iaculis eget. Nullam vel nisl bibendum arcu mattis varius. Suspendisse nec tellus ut arcu varius lacinia. Praesent vehicula eget dolor sit amet ullamcorper.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>lri1</tabTrigger>
+	<description>Lorem Ipsum 1 paragraph</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
